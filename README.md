@@ -1,4 +1,4 @@
-### Hi there 👋
+### Experienced Air Force Human Resources Officer transitioning to a career in Data Science. Skilled in strategic HR data analytics and problem-solving, with a passion for finding smart, efficient, and cost-effective data solutions. Bringing a strong track record of leveraging data to drive business decisions and optimize processes. Excited to integrate new technical skills and contribute to the growth of productive data-driven organizations as a Professional Data Scientist. 👋
 
 <!--
 **Brian-ONeil/Brian-ONeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
